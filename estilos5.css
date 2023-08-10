@@ -1,0 +1,24 @@
+article{
+    background-color:lightyellow;
+    font-family: sans-serif;
+    justify-content: center;
+     height:300px;
+    width:400px;
+    text-align: center;
+    color: purple;
+}
+
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+button{
+    margin-top:20px;
+    background-color: lightcoral;
+    width:150px;
+    height: 50px;
+    border-radius: 10%;
+    color:blueviolet
+}
